@@ -1,0 +1,13 @@
+/* A style sheet*/
+
+.header{
+	text-align: center;
+	font-family: "Comic Sans MS";
+	color: blue;
+}
+
+.rh{
+	text-align:left;
+	font-family:"Papyrus";
+	color: green;
+}
