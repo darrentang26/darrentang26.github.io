@@ -4,10 +4,24 @@
 	text-align: center;
 	font-family: "Comic Sans MS";
 	color: blue;
+	text-decoration:underline;
 }
 
 .rh{
 	text-align:left;
 	font-family:"Papyrus";
 	color: green;
+	text-decoration:underline;
+}
+
+.hpbody{
+	text-align:center;
+	font-family:"Arial Rounded MT Bold";
+	background-color:yellow;	
+}
+
+#biop{
+	text-align:center;
+	font-family:"Arial";
+	background-color:yellow;
 }
